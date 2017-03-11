@@ -1,2 +1,3 @@
 # hello-world
 First Git-hub project :)
+Experienced in life for 69 yeaars. Spent 4 years in the Army as a Radar Mechanic. Afterwards got an AS in Digital Electronics, worked for a couple of years as a tech at TI in Dallas, then got an Industrial Engineering degree in 1978 at Texas A&M.  Worked for 20 years as a Manfacturing Engineer, 5 years of that in Sales. Then spent 18 years in Marine Electronics, doing some programming, circuit board design, monitoring systems design, and AV systems design. Lived on a 40' sailboat for 10 years along the way. Now looking to retire, build an RV from a Transit Van, and do some contract work along the way as I am a die hard practical tech nerd. 
